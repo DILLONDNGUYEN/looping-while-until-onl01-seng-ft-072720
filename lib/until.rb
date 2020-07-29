@@ -7,6 +7,6 @@ def using_until(force)
   #increment your levitation force by 1
   levitation_force += 1
   #your code here
-    
+  end  
 end
 
