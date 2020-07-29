@@ -1,4 +1,4 @@
-def using_while(force)
+def using_while()
 #we should increment our levitation force by 1
   levitation_force += 6
 #while our levitation force is less than 10
